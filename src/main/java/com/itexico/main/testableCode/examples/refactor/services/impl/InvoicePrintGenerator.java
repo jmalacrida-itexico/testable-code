@@ -2,7 +2,6 @@ package com.itexico.main.testableCode.examples.refactor.services.impl;
 
 import com.itexico.main.testableCode.examples.refactor.entities.Invoice;
 import com.itexico.main.testableCode.examples.refactor.exceptions.InvoicePrinterException;
-import com.itexico.main.testableCode.examples.refactor.exceptions.UserNotAuthorizedException;
 import com.itexico.main.testableCode.examples.refactor.services.Database;
 import com.itexico.main.testableCode.examples.refactor.services.InvoiceGenerator;
 import com.itexico.main.testableCode.examples.refactor.services.InvoicePrinter;
